@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(NinjaTracker());
 }
 
-class MyApp extends StatelessWidget {
+class NinjaTracker extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
