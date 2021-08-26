@@ -8,6 +8,16 @@ void main() {
     title: 'Ninjatracker',
     home: HomeScreen(),
     debugShowCheckedModeBanner: false,
+    theme: ThemeData(
+      // Define default brightness and colors
+      primaryColor: Colors.grey,
+      accentColor: Colors.amber,
+      buttonColor: Colors.amber,
+
+      // Define default font family
+      fontFamily: 'Roboto',
+
+    ),
   ));
 }
 
