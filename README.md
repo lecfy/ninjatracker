@@ -1,17 +1,19 @@
 # ninjatracker
 
-A new Flutter project.
+The ninjatracker is a tracking app, a collaborative project, built with Flutter.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This app allows you to
+- [track items and organize them in categories]
+- [save tracking data and show it in graphs]
+- [send reminders for things you wish to do regularly]
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Next Steps:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ninjatracker
+- [Welcome Screen with button "Ok, let's Start" > one time only-screen]
+  (https://flutter.dev/docs/cookbook/persistence/key-value)
+- [Dashboard with empty category list and plus-button to add new category > saving on device]
+- [Burger menu > empty for now]
+- [Theme Data: how to save basic design aspects in one place]
